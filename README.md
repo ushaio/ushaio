@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, 我是 ushaio!</h1>
-  <p>前端开发者 | 喜欢折腾技术 🚀</p>
+  <p>全栈开发者 | 喜欢折腾技术 🚀</p>
 
   <p>
     <a href="https://github.com/ushaio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -12,7 +12,7 @@
 <div align="center">
   ✨ <span style="font-size: 1.5em; font-weight: bold; color: #007bff;">社交ID：ushaio</span> ✨<br>
   📧 <span style="font-size: 1.2em; color: #28a745;">邮箱：haggi@lao.ac.cn</span> 📧<br>
-  💡 <span style="font-size: 1.2em; color: #6c757d;">一个热爱生活的前端程序猿</span> 💡
+  💡 <span style="font-size: 1.2em; color: #6c757d;">一个热爱生活的程序猿</span> 💡
 </div>
 
 ---

@@ -11,6 +11,7 @@
 
 <div align="center">
   ✨ <span style="font-size: 1.5em; font-weight: bold; color: #007bff;">社交ID：ushaio</span> ✨<br>
+  📧 <span style="font-size: 1.2em; color: #28a745;">邮箱：haggi@lao.ac.cn</span> 📧<br>
   💡 <span style="font-size: 1.2em; color: #6c757d;">一个热爱生活的前端程序猿</span> 💡
 </div>
 

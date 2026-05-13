@@ -26,7 +26,7 @@
 
 ## 💡 开源项目
 
-*  **[个人图床](https://img.yunbiu.top)** - 个人图床服务，提供图片存储和分享功能
+*  **[Mo Gallery](https://github.com/ushaio/mo-gallery-web)** - 摄影叙事作品画廊
 
 ---
 
@@ -34,9 +34,9 @@
 
 | 服务 | 描述 |
 |---|---|
-| 🖼️ [MO Gallery](https://img.yunbiu.top) | 个人摄影博客 |
+| 🖼️ [MO Gallery](https://mo-gallery.shaio.top) | 个人摄影博客 |
 | 🖼️ [个人图床](https://img.yunbiu.top) | 个人图床服务，提供图片存储和分享功能 |
-| 📝 [博客](https://www.shaio.top) | 个人博客，分享技术文章和生活感悟 |
+| 📝 [博客](https://shaio.top) | 个人博客，分享技术文章和生活感悟 |
 
 ---
 

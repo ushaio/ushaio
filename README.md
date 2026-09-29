@@ -62,8 +62,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ushaio&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushaio&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ushaio&theme=github" alt="Profile Details" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ushaio&theme=github" alt="Repos per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ushaio&theme=github" alt="Most Commit Language" />
 
 <img height="150" src="https://streak-stats.demolab.com?user=ushaio&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
 
@@ -96,7 +97,5 @@
 <div align="center">
 
 **Ad Astra Per Aspera** ✨ 觉得项目不错的话，给个 Star 吧！
-
-<img src="https://komarev.com/ghpvc/?username=ushaio&color=58A6FF&style=flat-square&label=%E8%AE%BF%E5%AE%A2" alt="访客统计" />
 
 </div>
